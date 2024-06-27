@@ -1,4 +1,4 @@
- DAY 1 Code 
+ 
 
 var b = 'c2f1asdk234f7dc5h98g89g';
 
