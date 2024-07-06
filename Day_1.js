@@ -8,7 +8,7 @@ for(var i = 0; i<b.length; i++){
     if(parseInt(b[i])){
         a[j++] = b[i];
     }
-console.log(Number(b[i]));    
+console.log(Numberb[i]));    
 }
 
 console.log("Array Integer  value");
