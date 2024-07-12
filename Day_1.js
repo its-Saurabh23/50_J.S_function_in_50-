@@ -11,7 +11,7 @@ for(var i = 0; i<b.length; i++){
 console.log(Numberb[i]));    
 }
 
-console.log("Array Integer  value");
+console.log("Array Integer value");
 
 for(var j = 0; j<a.length; j++){
     console.log('Loop values ' + j);
